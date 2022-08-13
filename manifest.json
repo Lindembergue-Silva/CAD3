@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Professor Lindembergue",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "LindembergueDev",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "600x600.png",
+      "type": "image/png",
+      "sizes": "600x600"
+    }
+  ]
+}
